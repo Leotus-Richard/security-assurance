@@ -1,0 +1,20 @@
+[
+  {
+    "sourceSkill": "threat-model",
+    "packagedPath": "skills/threat-model",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  },
+  {
+    "sourceSkill": "supply-chain-audit",
+    "packagedPath": "skills/supply-chain-audit",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  },
+  {
+    "sourceSkill": "policy-as-code",
+    "packagedPath": "skills/policy-as-code",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  }
+]

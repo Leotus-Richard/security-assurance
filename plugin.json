@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "security-assurance",
+  "version": "0.1.0",
+  "description": "Threat modeling, supply-chain findings, and policy-as-code review artifacts.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "homepage": "https://github.com/Leotus-Richard/security-assurance",
+  "repository": "https://github.com/Leotus-Richard/security-assurance.git",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Security Assurance",
+        "shortDescription": "Threat modeling, supply-chain findings, and policy-as-code re.",
+        "developerName": "Leotus-Richard",
+        "category": "Productivity"
+      }
+    }
+  }
+}
